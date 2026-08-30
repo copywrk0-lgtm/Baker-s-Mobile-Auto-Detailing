@@ -1,0 +1,1 @@
+import Link from 'next/link'; export default function Terms(){return <main className="legal"><Link href="/">← Baker’s Mobile Auto Detailing</Link><h1>Terms</h1><p>This page is placeholder legal copy for a sales concept. Final production terms should be supplied or approved by the business.</p></main>}

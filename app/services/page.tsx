@@ -1,0 +1,2 @@
+import SiteShell from '@/components/layout/SiteShell'; import PageHero from '@/components/shared/PageHero'; import ServicesPage from '@/components/pages/ServicesPage';
+export default function Page(){return <SiteShell><PageHero eyebrow="BAKER’S MOBILE · SERVICES" title={<>Protection, care<br/><i>and finish.</i></>} body="A clearer way to explore detailing, protection and appearance services in Concord." image="/bakers/concept-4.svg"/><ServicesPage/></SiteShell>}

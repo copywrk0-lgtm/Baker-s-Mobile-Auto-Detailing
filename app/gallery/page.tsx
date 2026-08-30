@@ -1,0 +1,2 @@
+import SiteShell from '@/components/layout/SiteShell'; import PageHero from '@/components/shared/PageHero'; import GalleryPage from '@/components/pages/GalleryPage';
+export default function Page(){return <SiteShell><PageHero eyebrow="BAKER’S MOBILE · THE WORK" title={<>See the finish<br/><i>up close.</i></>} body="A gallery-led look at the vehicles and atmosphere behind the Baker’s Mobile Auto Detailing experience." image="/bakers/concept-1.svg"/><GalleryPage/></SiteShell>}

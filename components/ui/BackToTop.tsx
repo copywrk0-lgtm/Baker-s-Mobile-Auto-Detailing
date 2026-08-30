@@ -1,0 +1,1 @@
+'use client'; import {ArrowUp} from 'lucide-react'; import {useEffect,useState} from 'react'; export default function BackToTop(){const[v,setV]=useState(false);useEffect(()=>{const f=()=>setV(scrollY>600);addEventListener('scroll',f);return()=>removeEventListener('scroll',f)},[]);return v?<a className="backtop" href="#top" aria-label="Back to top"><ArrowUp size={16}/></a>:null}

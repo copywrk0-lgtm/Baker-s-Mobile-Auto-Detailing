@@ -1,0 +1,2 @@
+import SiteShell from '@/components/layout/SiteShell'; import PageHero from '@/components/shared/PageHero'; import ContactPage from '@/components/pages/ContactPage';
+export default function Page(){return <SiteShell><PageHero eyebrow="BAKER’S MOBILE · CONTACT" title={<>Let’s talk about<br/><i>your vehicle.</i></>} body="Request a quote and continue the conversation with Baker’s Mobile Auto Detailing." image="/bakers/concept-3.svg"/><ContactPage/></SiteShell>}

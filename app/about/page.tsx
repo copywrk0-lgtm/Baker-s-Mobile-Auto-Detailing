@@ -1,0 +1,2 @@
+import SiteShell from '@/components/layout/SiteShell'; import PageHero from '@/components/shared/PageHero'; import AboutPage from '@/components/pages/AboutPage';
+export default function Page(){return <SiteShell><PageHero eyebrow="BAKER’S MOBILE · ABOUT" title={<>Built around<br/><i>the car.</i></>} body="Automotive care for Concord drivers who notice the details." image="/bakers/concept-2.svg"/><AboutPage/></SiteShell>}

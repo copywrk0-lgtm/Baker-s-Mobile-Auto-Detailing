@@ -17,7 +17,6 @@ export default function HomePage() {
     <>
       <ScrollProgress />
       <Header />
-
       <main id="top">
         <Hero />
         <TrustBar />
@@ -28,7 +27,6 @@ export default function HomePage() {
         <QuoteCTA />
         <FAQ />
       </main>
-
       <Footer />
       <FloatingActions />
       <BackToTop />

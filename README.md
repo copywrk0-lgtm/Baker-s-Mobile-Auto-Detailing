@@ -12,3 +12,13 @@ The gallery currently uses clearly labeled concept SVGs. Replace these with appr
 npm install
 npm run dev
 ```
+
+
+## Latest visual rebuild
+- Reworked the hero around a stronger premium automotive composition.
+- Removed the previous baked-in concept labels from visual assets.
+- Added six cleaner temporary art-direction assets for the gallery.
+- Added stronger visual hierarchy, hover states, glass UI, softer forms, and premium spacing.
+- Real Baker’s photos should replace the temporary art assets before client handoff.
+- Business facts were kept grounded in public listings; no package pricing was invented.
+- Reference: Baker’s public Yelp photo page: https://www.yelp.com/biz_photos/bakers-mobile-auto-detailing-concord?select=UYsTTEQV2116EIKxzsZX8Q

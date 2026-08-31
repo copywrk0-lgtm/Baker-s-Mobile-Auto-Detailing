@@ -24,12 +24,12 @@ export const services = [
 ];
 
 export const gallery = [
-  ['/bakers/concept-1.svg','Exterior Detail','Concept imagery · replace with Baker’s work'],
-  ['/bakers/concept-2.svg','Interior Detail','Concept imagery · replace with Baker’s work'],
-  ['/bakers/concept-3.svg','Paint Restoration','Concept imagery · replace with Baker’s work'],
-  ['/bakers/concept-4.svg','Ceramic Protection','Concept imagery · replace with Baker’s work'],
-  ['/bakers/concept-5.svg','Headlight Restoration','Concept imagery · replace with Baker’s work'],
-  ['/bakers/concept-6.svg','Maintenance Detail','Concept imagery · replace with Baker’s work'],
+  ['/bakers/work-1.svg','Exterior Detail','Concept art · replace with approved Baker’s work'],
+  ['/bakers/work-2.svg','Interior Detail','Concept art · replace with approved Baker’s work'],
+  ['/bakers/work-3.svg','Black Car Restoration','Concept art · replace with approved Baker’s work'],
+  ['/bakers/work-4.svg','Ceramic Protection','Concept art · replace with approved Baker’s work'],
+  ['/bakers/work-5.svg','Headlight Restoration','Concept art · replace with approved Baker’s work'],
+  ['/bakers/work-6.svg','Maintenance Detail','Concept art · replace with approved Baker’s work'],
 ];
 
 export const reviews = [

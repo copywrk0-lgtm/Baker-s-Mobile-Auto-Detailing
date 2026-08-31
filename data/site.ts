@@ -14,22 +14,27 @@ export const business = {
 
 export const services = [
   {k:'01', title:'Mobile Auto Detailing', short:'Professional interior and exterior detailing brought directly to your home, office or place of recreation.', icon:'sparkles'},
-  {k:'02', title:'Black Car Restoration', short:'Restore the finish and reduce the appearance of scratches and paint defects on dark vehicles.', icon:'gauge'},
-  {k:'03', title:'Ceramic Coating', short:'Long-lasting paint protection that adds gloss and makes ongoing maintenance easier.', icon:'droplet'},
-  {k:'04', title:'Odor Removal', short:'Ozone-based odor treatment for stubborn smells caused by smoke, pets, spills and everyday use.', icon:'wind'},
-  {k:'05', title:'Mold Remediation', short:'Specialized cleaning for vehicles affected by mold or moisture-related contamination.', icon:'shield'},
-  {k:'06', title:'Headlight Restoration', short:'Restore cloudy, hazy headlights and improve the vehicle’s overall appearance.', icon:'sun'},
-  {k:'07', title:'Engine Cleaning', short:'Careful engine-bay cleaning that removes accumulated grime and brings back a cleaner finish.', icon:'settings'},
-  {k:'08', title:'Maintenance Details', short:'Weekly and bi-weekly maintenance services designed to keep a freshly detailed vehicle looking its best.', icon:'repeat'},
+  {k:'02', title:'Black Car Restoration', short:'Specialized correction and restoration for dark finishes where every reflection matters.', icon:'gauge'},
+  {k:'03', title:'Ceramic Coating', short:'Paint protection designed to deepen gloss and make future maintenance easier.', icon:'droplet'},
+  {k:'04', title:'Odor Removal', short:'Deep treatment for stubborn smoke, pet, spill and everyday-use odors.', icon:'wind'},
+  {k:'05', title:'Mold Remediation', short:'Careful vehicle cleaning for mold and moisture-related contamination.', icon:'shield'},
+  {k:'06', title:'Headlight Restoration', short:'Bring cloudy, hazy headlights back to a cleaner, clearer appearance.', icon:'sun'},
+  {k:'07', title:'Engine Cleaning', short:'Detailed engine-bay cleaning that removes built-up grime without treating it like a quick wash.', icon:'settings'},
+  {k:'08', title:'Maintenance Details', short:'Weekly and bi-weekly maintenance visits that keep a finished vehicle looking its best.', icon:'repeat'},
 ];
 
 export const gallery = [
-  ['/bakers/work-1.svg','Exterior Detail','Concept art · replace with approved Baker’s work'],
-  ['/bakers/work-2.svg','Interior Detail','Concept art · replace with approved Baker’s work'],
-  ['/bakers/work-3.svg','Black Car Restoration','Concept art · replace with approved Baker’s work'],
-  ['/bakers/work-4.svg','Ceramic Protection','Concept art · replace with approved Baker’s work'],
-  ['/bakers/work-5.svg','Headlight Restoration','Concept art · replace with approved Baker’s work'],
-  ['/bakers/work-6.svg','Maintenance Detail','Concept art · replace with approved Baker’s work'],
+  ['/bakers/photos/01-ferrari-garage.jpg','Ferrari · Garage Finish','A closer look at the level of finish Baker’s work is built around'],
+  ['/bakers/photos/02-mercedes-gwagon.jpg','Mercedes-AMG G-Class','Exterior finish and presentation'],
+  ['/bakers/photos/03-mclaren.jpg','McLaren 720S','High-end exterior presentation'],
+  ['/bakers/photos/04-rolls-side.jpg','Rolls-Royce','Deep gloss and clean reflections'],
+  ['/bakers/photos/05-green-aston.jpg','Aston Martin','Show-ready exterior finish'],
+  ['/bakers/photos/06-yellow-ferrari-front.jpg','Ferrari','Front-end finish and paint clarity'],
+  ['/bakers/photos/07-aston-black.jpg','Aston Martin · Black','Gloss, reflections and wheel detail'],
+  ['/bakers/photos/08-ferrari-silver.jpg','Ferrari Roma','Clean lines and paint presentation'],
+  ['/bakers/photos/09-ferrari-front.jpg','Ferrari','Front profile'],
+  ['/bakers/photos/10-mercedes-black.jpg','Mercedes-Benz','Black paint finish'],
+  ['/bakers/photos/11-rolls-front.jpg','Rolls-Royce · Pink Interior','Luxury vehicle presentation'],
 ];
 
 export const reviews = [
